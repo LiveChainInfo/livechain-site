@@ -1,0 +1,2 @@
+# livechain-site
+LiveChain Manifesto
